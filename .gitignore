@@ -1,0 +1,12 @@
+.env
+.vs/
+bin/
+obj/
+*.user
+
+# Visual Studio local files
+*.suo
+
+# Temporary files
+*.tmp
+*.log
